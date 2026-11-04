@@ -114,3 +114,48 @@ footer {
         margin: 5px;
     }
 }
+h1 {
+    font-size: 32px;
+    color: white;
+}
+
+h2 {
+    font-size: 24px;
+    color: #172554;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
+
+fieldset {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+legend {
+    font-weight: bold;
+    color: #172554;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #172554;
+    color: white;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #334b8c;
+}
